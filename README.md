@@ -8,10 +8,10 @@ Dentro de una terminal se copian los siguientes comandos para desinstalar los di
 
 Ajedrez
 
-``
+```
 apt remove gnome-chess
 apt autoremove
-``
+```
 
 Cinco o más
 
