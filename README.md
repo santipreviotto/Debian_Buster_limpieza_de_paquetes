@@ -2,16 +2,15 @@
 
 ![GitHub Logo](/debian-logo-1024x576.png)
 
-Limpieza de paquetería preinstalada de nuestro Debian Buster. 
+Limpieza de paquetería preinstalada de nuestro Debian Buster mediante la terminal. >La mayoría d elos paquetes seleccionados son juegos que instalados por defecto y la aplicación de relojes y meteorología de Gnome, la cuál no utilizo, siendo estas dos últimas opcionales.
 
 Dentro de una terminal se copian los siguientes comandos para desinstalar los diferentes paquetes.
 
 Ajedrez
 
-```
-apt remove gnome-chess
-apt autoremove
-```
+`apt remove gnome-chess`
+
+`apt autoremove`
 
 Cinco o más
 
@@ -41,15 +40,34 @@ Mahjongg
 
 `apt remove gnome-mahjongg`
 
-Meteorología
+Meteorología (opcional)
 
 `apt remove gnome-weather`
 
-`apt remome`
+Minas
 
-`apt remove`
+`apt remove gnome-mines`
 
-`apt remove`
+Nibbles
 
-`apt remove`
+`apt remove gnome-nibbles`
+
+Quadrapassel
+
+`apt remove quadrapassel`
+
+Relojes (opcional)
+
+`apt remove gnome-clocks`
+
+`apt autoremove`
+
+
+
+``
+``
+``
+``
+``
+``
 
