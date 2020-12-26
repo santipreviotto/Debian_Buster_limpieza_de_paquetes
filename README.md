@@ -1,6 +1,6 @@
 # Debian Buster: limpieza de paquetes
 
-![GitHub Logo](/home/sp/Imágenes/deb.jpg)
+![GitHub Logo](/deb.jpg)
 
 Limpieza de paquetería preinstalada de nuestro Debian Buster. 
 
