@@ -6,6 +6,8 @@ Limpieza de paquetería preinstalada de nuestro Debian Buster mediante la termin
 
 Dentro de una terminal se copian los siguientes comandos para desinstalar los diferentes paquetes.
 
+### Comando de cada paquete
+
 Ajedrez
 
 `apt remove gnome-chess`
@@ -102,6 +104,17 @@ Xterm
 
 `apt autoremove`
 
-Una vez desinstalado los paqutes deseados se recomienda cerrar la sesión y volver a iniciarla, o bien un reinicio del pc.
+
+#Comando de toda la paquetería
+
+```
+apt remove gnome-chess && apt autoremove && apt remove five-or-more
+&& apt remove four-in-a-row
+```
+
+
+
+
+Una vez desinstalado los paquetes deseados se recomienda cerrar la sesión y volver a iniciarla, o bien un reinicio del pc.
 
 
