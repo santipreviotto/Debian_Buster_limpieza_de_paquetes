@@ -105,14 +105,11 @@ Xterm
 `apt autoremove`
 
 
-#Comando de toda la paquetería
+### Comando de toda la paquetería
 
 ```
-apt remove gnome-chess && apt autoremove && apt remove five-or-more
-&& apt remove four-in-a-row
+apt remove gnome-chess && apt autoremove && apt remove five-or-more && apt remove four-in-a-row && apt remove hitori && apt remove iagno && apt remove gnome-klotski && apt remove lightsoff && apt remove gnome-mahjongg && apt remove gnome-weather && apt remove gnome-mines && apt remove gnome-nibbles && apt remove quadrapassel && apt remove gnome-clocks && apt autoremove && apt remove gnome-robots && apt autoremove && apt remove aisleriot && apt autoremove && apt remove gnome-sudoku && apt autoremove && apt remove swell-foop && apt remove tali && apt remove gnome-taquin && apt remove gnome-tetravex && apt remove xterm && apt autoremove
 ```
-
-
 
 
 Una vez desinstalado los paquetes deseados se recomienda cerrar la sesión y volver a iniciarla, o bien un reinicio del pc.
