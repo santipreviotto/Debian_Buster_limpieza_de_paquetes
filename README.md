@@ -9,7 +9,7 @@ Dentro de una terminal se copian los siguientes comandos.
 ### Comando que incluye los juegos, la aplicación de relojes y de meteorología  
 
 ```
-apt remove gnome-chess && apt autoremove && apt remove five-or-more && apt remove four-in-a-row && apt remove hitori && apt remove iagno && apt remove gnome-klotski && apt remove lightsoff && apt remove gnome-mahjongg && apt remove gnome-weather && apt remove gnome-mines && apt remove gnome-nibbles && apt remove quadrapassel && apt remove gnome-clocks && apt autoremove && apt remove gnome-robots && apt autoremove && apt remove aisleriot && apt autoremove && apt remove gnome-sudoku && apt autoremove && apt remove swell-foop && apt remove tali && apt remove gnome-taquin && apt remove gnome-tetravex && apt remove xterm && apt autoremove
+apt remove gnome-chess && apt autoremove && apt remove five-or-more && apt remove four-in-a-row && apt remove hitori && apt remove iagno && apt remove gnome-klotski && apt remove lightsoff && apt remove gnome-mahjongg && apt remove gnome-weather && apt remove gnome-mines && apt remove gnome-nibbles && apt remove quadrapassel && apt remove gnome-clocks && apt autoremove && apt remove gnome-robots && apt autoremove && apt remove aisleriot && apt autoremove && apt remove gnome-sudoku && apt autoremove && apt remove swell-foop && apt remove tali && apt remove gnome-taquin && apt remove gnome-tetravex && apt remove xterm && apt autoremove && apt remove evolution && apt autoremove && apt remove gnome-documents && apt autoremove && apt remove gnome-contacts && apt autoremove && apt remove gnome-maps && apt autoremove
 ```
 
 ### Comando que incluye solo los juegos
